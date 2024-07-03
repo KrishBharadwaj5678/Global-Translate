@@ -28,7 +28,7 @@ btn=st.button("Generate")
 if btn:
     try:
         translation = GoogleTranslator(source=selected_lang_input.split(":")[0].strip(), target=selected_lang_output.split(":")[0].strip()).translate(text)
-        st.markdown("### :green[Translated Text:]")
+        st.markdown("### :green[Converted Text:]")
         st.code(translation)
     except:
         st.error("Please Enter Something...")
