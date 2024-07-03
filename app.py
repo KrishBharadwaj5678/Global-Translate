@@ -29,8 +29,11 @@ btn = st.button("Generate")
 if btn and text:
     try:
         translated_text = translator.translate(text, src=selected_lang_input.split(":")[0].strip(), dest=selected_lang_output.split(":")[0].strip())
-        st.markdown("### :green[Translated Text:]")
-        st.code(translated_text.text)
+        if translated_text.text:
+            st.markdown("### :green[Translated Text:]")
+            st.code(translated_text.text)
+        else:
+            st.error("Translation failed: Empty response from Google Translate API")
     except Exception as e:
         st.error(f"Translation failed: {e}")
 elif btn and not text:
