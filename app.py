@@ -1,6 +1,5 @@
 import streamlit as st
-from googletrans import Translator
-from googletrans import LANGUAGES
+from googletrans import Translator,LANGUAGES
 
 # Translator
 translator = Translator()
