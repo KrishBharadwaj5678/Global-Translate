@@ -1,6 +1,6 @@
 # 🌍 Global Translate
 
-**Global Translate** brings the world to your fingertips with its powerful translation engine. Effortlessly communicate across borders and cultures with precision and ease.
+**Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips. 🗣️
 
 ## ✨ Features
 
@@ -16,7 +16,7 @@
 |----------------|---------------------------------------------|
 | 🐍 Python       | Core programming language                   |
 | 📦 Streamlit    | Web interface for interactive UI            |
-| 🌍 Googletrans  | Google Translate API (unofficial)           |
+| 🌍 Googletrans  | Google Translate API                        |
 | 🌐 Deep Translator | Robust multi-source translation backend |
 
 ---
@@ -29,7 +29,7 @@
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Global-Translate.git
-cd global-translate
+cd Global-Translate
 ````
 
 2. Install the dependencies:
@@ -51,7 +51,7 @@ streamlit run app.py
 
 ## 🤝 Contributing
 
-Contributions are welcome! 🎉
+Contributions are welcome!
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
