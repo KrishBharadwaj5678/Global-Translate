@@ -1,14 +1,21 @@
 # 🌍 Global Translate
 
-**Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips. 🗣️
+**Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips. 🌐
+
+---
 
 ## ✨ Features
 
-- 🌐 Translate text across **100+ languages**
-- 🤖 Uses powerful translation libraries: `googletrans` and `deep-translator`
-- 🧠 Smart fallback system for accurate results
-- 🖥️ Intuitive and responsive **Streamlit** UI
-- 🔄 Real-time translation
+* 🌐 **Multi-language Support** — Translate across 30+ languages with ease.
+* 🔁 **Dual Translation Engines** — Uses both `googletrans` and `deep-translator`.
+* 💬 **Text-to-Text Translation** — Translate any block of text with a click.
+* 📋 **One-Click Copy** — Quickly copy translated text to your clipboard.
+* 🖥️ **User-Friendly Interface** — Clean and responsive design built with Streamlit.
+* 🌙 **Dark Mode Support** — Comfortable viewing in all lighting conditions.
+* 📱 **Mobile-Friendly** — Works smoothly on mobile devices and tablets.
+* 🔒 **Privacy First** — No user data is stored or tracked.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -58,5 +65,3 @@ Contributions are welcome!
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
