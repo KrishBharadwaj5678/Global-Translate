@@ -2,7 +2,6 @@ import streamlit as st
 from googletrans import LANGUAGES
 from deep_translator import GoogleTranslator
 
-
 # Defining Page Title,Icon
 st.set_page_config(
     page_title="Global Translate",
@@ -32,3 +31,4 @@ if btn:
         st.code(translation)
     except:
         st.error("Please Enter Something...")
+        
