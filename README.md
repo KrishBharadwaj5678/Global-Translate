@@ -28,7 +28,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/global-translate.git
+git clone https://github.com/KrishBharadwaj5678/Global-Translate.git
 cd global-translate
 ````
 
