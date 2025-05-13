@@ -1,6 +1,6 @@
 # 🌍 Global Translate
 
-**Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips. 🌐
+**Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips.
 
 ---
 
