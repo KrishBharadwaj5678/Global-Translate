@@ -4,8 +4,6 @@
 
 ![GlobalTranslateDemo](https://github.com/KrishBharadwaj5678/Global-Translate/raw/main/GlobalTranslateDemo.png)
 
----
-
 ## ✨ Features
 
 | **Feature**                      | **Description**                                                 |
