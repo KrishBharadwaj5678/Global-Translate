@@ -2,6 +2,8 @@
 
 **Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips.
 
+![GlobalTranslateDemo](https://github.com/KrishBharadwaj5678/Global-Translate/raw/main/GlobalTranslateDemo.png)
+
 ---
 
 ## ✨ Features
