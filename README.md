@@ -6,14 +6,16 @@
 
 ## ✨ Features
 
-* 🌐 **Multi-language Support** — Translate across 30+ languages with ease.
-* 🔁 **Dual Translation Engines** — Uses both `googletrans` and `deep-translator`.
-* 💬 **Text-to-Text Translation** — Translate any block of text with a click.
-* 📋 **One-Click Copy** — Quickly copy translated text to your clipboard.
-* 🖥️ **User-Friendly Interface** — Clean and responsive design built with Streamlit.
-* 🌙 **Dark Mode Support** — Comfortable viewing in all lighting conditions.
-* 📱 **Mobile-Friendly** — Works smoothly on mobile devices and tablets.
-* 🔒 **Privacy First** — No user data is stored or tracked.
+| **Feature**                      | **Description**                                                 |
+| ------------------------------- | ------------------------------------------------------------------ |
+| 🌐 **Multi-language Support**   | Translate across 30+ languages with ease.                          |
+| 🔁 **Dual Translation Engines** | Uses both `googletrans` and `deep-translator` for better accuracy. |
+| 💬 **Text-to-Text Translation** | Instantly translate any block of text with a single click.         |
+| 📋 **One-Click Copy**           | Copy translated text to your clipboard effortlessly.               |
+| 🖥️ **User-Friendly Interface** | Clean, modern, and responsive design built with Streamlit.         |
+| 🌙 **Dark Mode Support**        | Comfortable viewing experience in all lighting conditions.         |
+| 📱 **Mobile-Friendly**          | Works seamlessly on mobile phones and tablets.                     |
+| 🔒 **Privacy First**            | Ensures user data is never stored or tracked.                      |
 
 ---
 
@@ -44,11 +46,8 @@ cd Global-Translate
 ```bash
 pip install -r requirements.txt
 ```
----
 
-## ▶️ Usage
-
-To launch the app locally, run:
+3. To launch the app locally, run:
 
 ```bash
 streamlit run app.py
@@ -56,12 +55,12 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
+## Contributing 🤝
 
-Contributions are welcome!
+Want to contribute? Here's how:
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
