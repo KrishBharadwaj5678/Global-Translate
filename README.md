@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🌍 Global Translate
 
 **Global Translate** empowers you to communicate effortlessly across languages and cultures with fast, accurate translations at your fingertips.
